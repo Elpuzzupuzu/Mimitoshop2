@@ -45,7 +45,7 @@ export const ProductDisplay = (props) => {
             </div>
             <div className="productdisplay-right-size">
                 <h1>select size</h1>
-                <div className="productdisplay-right-size">
+                <div className="productdisplay-right-sizes">
                     <div>s</div>
                     <div>m</div>
                     <div>l</div>
